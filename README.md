@@ -4,6 +4,8 @@ Esse é um projeto de classificação.
 
 O conjunto de dados utilizado está disponível [neste link](https://www.kaggle.com/blastchar/telco-customer-churn). 
 
+Para visualizar o script com o código completo acesse [esse link](https://ds-rafaelfelippe.github.io/projetos/Projeto_CustomerChurn.html).
+
 [![forthebadge made-with-R](figures/R.png)](https://www.r-project.org/)
 
 # Entendimento do Negócio
